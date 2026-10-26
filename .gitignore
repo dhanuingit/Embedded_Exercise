@@ -1,0 +1,15 @@
+cat > .gitignore << 'EOF'
+# C build output
+a.out
+*.o
+*.out
+
+# Generated at runtime
+backup.txt
+Debug_log.txt
+
+# Editors / OS
+.vscode/
+*.swp
+.DS_Store
+EOF
