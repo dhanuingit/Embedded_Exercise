@@ -1,0 +1,2 @@
+Readers should also have a working knowledge of assembly language 
+C or C++ programming as most embedded systems are programed using these languages
